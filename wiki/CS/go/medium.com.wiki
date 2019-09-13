@@ -1,0 +1,8 @@
+= medium.com =
+
+https://medium.com/topic/programming
+
+Thu Aug  1 09:35:28 EDT 2019
+
+https://medium.com/@florestony5454/gaussian-blurring-with-python-and-opencv-ba8429eb879b
+

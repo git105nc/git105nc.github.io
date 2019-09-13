@@ -1,0 +1,9 @@
+= FAQ =
+
+Execute shell commands in Python
+https://unix.stackexchange.com/questions/238180/execute-shell-commands-in-python
+
+change working directory
+https://stackoverflow.com/questions/35664972/how-to-change-working-directory-in-jupyter-notebook?rq=1
+
+

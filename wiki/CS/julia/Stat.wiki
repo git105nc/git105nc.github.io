@@ -1,0 +1,6 @@
+== Stat ==
+
+https://github.com/scidom/StatsLearningByExample.jl
+
+https://github.com/JuliaStats
+

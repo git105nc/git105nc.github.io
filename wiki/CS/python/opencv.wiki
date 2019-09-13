@@ -1,0 +1,67 @@
+= opencv =
+
+https://anaconda.org/conda-forge/opencv
+    conda install -c conda-forge opencv
+https://anaconda.org/menpo/opencv3
+
+FYI:
+https://stackoverflow.com/questions/38787748/installing-opencv-3-1-with-anaconda-python3
+
+I think you don't need to build OpenCV for anaconda, there is this very handy tool called 'conda' that is available in your terminal once you have installed the Anaconda python distribution.
+
+I found this site which gives instruction on how to install opencv3
+
+https://anaconda.org/menpo/opencv3
+
+I personally installed it myself so just try follow along with these instructions.
+
+If you have the Anaconda python distribution installed in your system, you can issue this command (assuming you are working on linux) fire up the terminal:
+
+    conda install -c menpo opencv
+
+If the version of python install in your Anaconda is 2.7, the command above should install OpenCV 3.1, but if the version of your python is 3.5, then you should change 'opencv' in the last line to 'opencv3'
+
+    conda install -c menpo opencv3
+
+This should install OpenCV in your Anaconda. To see if you have installed it successfully, fire up your Python and issue the following command:
+
+import cv2 # import the opencv library
+
+cv2.__version__ # this will print the version of your opencv3
+
+Hope that helps =)
+
+[[
+If you are getting an error like the following:
+
+    UnsatisfiableError: The following specifications were found to be in conflict:
+            opencv 2.4.11* -> numpy 1.9* -> python 2.6* -> openssl 1.0.1*
+            python 3.6*
+            Use "conda info " to see the dependencies for each package.
+
+Just install python 3.5 and try again.
+
+conda install python=3.5
+conda install -c menpo opencv  # whichever
+conda install -c menpo opencv3 # you need
+]]
+
+[[
+Try this method it worked for me. Anaconda3-4
+
+conda create -n opencv
+activate opencv
+conda install -c https://conda.binstar.org/menpo opencv3
+]]
+
+[[
+None of the methods above worked for me. However, I found that this one liner works for me:
+
+conda install -c conda-forge opencv
+]]
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+= opencv_how =
+
+https://pythonprogramming.net/loading-images-python-opencv-tutorial/
+
+
+Thu Aug  1 09:34:04 EDT 2019
+https://medium.com/@florestony5454/gaussian-blurring-with-python-and-opencv-ba8429eb879b

@@ -1,0 +1,10 @@
+= ML =
+
+/Volumes/D/UO/yt/cs/python/tf/JeffHeaton/index.wiki
+
+https://machinelearningmastery.com/start-here/
+Over 780 tutorials
+https://machinelearningmastery.com/start-here/#statistical_methods
+https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
+
+

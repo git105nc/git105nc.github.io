@@ -1,0 +1,14 @@
+= R cran =
+
+/Volumes/D/UO/yt/cs/R/cICA/LiYirun/index.wiki
+/Volumes/D/UO/yt/cs/R/clust/index.wiki
+/Volumes/D/UO/yt/cs/R/multinomial/index.wiki
+/Volumes/D/UO/yt/cs/R/RandomForests/fyi.wiki
+/Volumes/D/UO/yt/cs/R/statquest/index.wiki
+/Volumes/D/UO/yt/cs/R/statquest/RanfomForest/index.wiki
+/Volumes/D/UO/yt/cs/R/wiki/Books/index.wiki
+/Volumes/D/UO/yt/cs/R/wiki/dplyr.wiki
+/Volumes/D/UO/yt/cs/R/wiki/index.wiki
+/Volumes/D/UO/yt/cs/R/wiki/markdown.wiki
+/Volumes/D/UO/yt/cs/R/wiki/tidyverse.wiki
+

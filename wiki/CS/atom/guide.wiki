@@ -1,0 +1,24 @@
+= welcome guide =
+
+In your first start up of atom, check or uncheck the box before:
+show  welcome guide when opening atom
+
+Note. In osx, it is uncheck when first open atom. After that, either do:
+
+1.
+How to make atom show the getting started guide at every startup 
+https://discuss.atom.io/t/how-to-make-atom-show-the-getting-started-guide-at-every-startup/15125
+
+You can put this in your ~/.atom/init.coffee:
+atom.config.set 'welcome.showOnStartup', true
+
+or 
+
+2.
+in atom, go to Atom > Config, change false to true
+
+  welcome:
+    showOnStartup: true 
+
+
+

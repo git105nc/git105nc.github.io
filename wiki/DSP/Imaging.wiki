@@ -1,0 +1,15 @@
+= Neuro Imaging =
+
+/Volumes/D/UO/yt/cs/dsp/index.wiki
+
+== fmri ==
+
+"   /Volumes/D/UO/yt/cs/dsp/fmri
+./
+bic/
+stehling1991echo_EPI.pdf
+
+"   /Volumes/D/UO/yt/cs/dsp/fmri/bic/psych214
+./
+2015/
+2016/

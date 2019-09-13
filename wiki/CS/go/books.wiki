@@ -1,0 +1,20 @@
+= books =
+
+imported from   /Volumes/D/UO/yt/cs/go/wiki/books.wiki
+
+https://www.golang-book.com/books/intro/
+https://www.golang-book.com/public/pdf/gobook.3186517259.pdf
+
+"   /Volumes/D/z/ar/b2014/
+2015_Book_WebDevelopmentWithGo.pdf
+2016_Book_GoRecipes.pdf
+The Go Programming Language - Donovan, Alan A. A. & Kernigha_6127.pdf
+The Way To Go.pdf
+gobook.3186517259.pdf
+http://www.golang-book.com/books/intro/
+"   /Volumes/D/z/ar/101/go/GoBook
+
+http://sufuq.com/books/golang/The%20Way%20To%20Go.pdf
+https://github.com/golang/go/wiki/Books
+
+

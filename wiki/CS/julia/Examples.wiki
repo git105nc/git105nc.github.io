@@ -1,0 +1,12 @@
+= Examples =
+
+https://julialang.org/learning/
+
+https://github.com/DataWookie/MonthOfJulia
+    http://www.exegetic.biz/blog/2015/08/monthofjulia-day-01-installation-and-orientation/
+https://juliabyexample.helpmanual.io/
+
+https://lectures.quantecon.org/jl/getting_started.html
+
+https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way
+

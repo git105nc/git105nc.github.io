@@ -1,0 +1,20 @@
+= Jupyter =
+
+https://github.com/JuliaLang/IJulia.jl
+using Pkg
+Pkg.add("IJulia")
+
+How to delete a kernel in Jupyter?
+How to remove a previous version from Jupyter?
+Last login: Fri Feb  1 14:58:26 on console
+~ (500): jupyter kernelspec list
+Available kernels:
+  julia-1.0    /Volumes/D/UO/yt/Library/Jupyter/kernels/julia-1.0
+  julia-1.1    /Volumes/D/UO/yt/Library/Jupyter/kernels/julia-1.1
+  python3      /Volumes/D/UO/yt/anaconda3/share/jupyter/kernels/python3
+~ (501): sudo rm -fr /Volumes/D/UO/yt/Library/Jupyter/kernels/julia-1.0
+
+julia> using IJulia
+julia> notebook(dir="~/cs/julia/")
+julia> notebook()
+

@@ -1,0 +1,23 @@
+= Data Science =
+
+/Volumes/D/UO/yt/ds/c11/index.wiki
+/Volumes/D/UO/yt/ds/cc/index.wiki
+/Volumes/D/UO/yt/ds/conda/index.wiki
+/Volumes/D/UO/yt/ds/conda/update.wiki
+/Volumes/D/UO/yt/ds/index.wiki
+/Volumes/D/UO/yt/ds/longleaf.wiki
+/Volumes/D/UO/yt/ds/python/ml/index.wiki
+/Volumes/D/UO/yt/ds/python/mne/wiki/index.wiki
+/Volumes/D/UO/yt/ds/python/mne/wiki/install.wiki
+/Volumes/D/UO/yt/ds/python/tf/index.wiki
+/Volumes/D/UO/yt/ds/R/DATANOVIA/index.wiki
+/Volumes/D/UO/yt/ds/R/index.wiki
+/Volumes/D/UO/yt/ds/sc/index.wiki
+/Volumes/D/UO/yt/ds/tutorials/index.wiki
+
+
+Towards Data Science
+Sharing concepts, ideas, and codes      [[TDS]]
+
+
+

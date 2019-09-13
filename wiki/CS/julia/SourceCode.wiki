@@ -1,0 +1,8 @@
+= Source Code =
+
+https://github.com/JuliaLang/julia
+This is the GitHub repository of Julia source code, including instructions for compiling and installing Julia.
+
+git clone git://github.com/JuliaLang/julia.git
+
+

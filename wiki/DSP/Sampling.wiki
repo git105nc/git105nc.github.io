@@ -1,0 +1,19 @@
+= Sampling Theorems =
+
+aldroubi1994sampling.pdf
+nashed1991general.pdf
+ShannonTheoremTutorial.pdf
+
+http://medialab.sjtu.edu.cn/teaching/DIP/Projects/chapter_bas/ShannonTheoremTutorial.pdf
+
+Sampling Theory and RKHSs
+http://gauss.uc3m.es/web/personal_web/agarcia/papers/15rkhs.pdf     (NA)
+
+http://krono.kaist.ac.kr/mathnet/kms_tex/978190.pdf
+http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1155-1.pdf
+
+Saburou Saitoh (1997).  Integral Transforms, Reproducing Kernels and Their Applications.
+
+
+
+

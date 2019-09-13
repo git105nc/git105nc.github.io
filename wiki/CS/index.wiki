@@ -1,0 +1,30 @@
+= Computing Science (CS) =
+
+mv ~/wiki ~/ar02/wiki/CS
+
+Scientific Computations [[sc/index]]
+
+
+== lang ==
+
+golang  [[go/index]]
+julia   [[julia/index]]
+python  [[python/index]]
+R cran  [[R/index]]
+
+bash    [[bash/index]]
+
+== IDE ==
+
+atom    [[atom/index]]
+jupyter [[jupyter/index]]
+
+
+/Volumes/D/UO/yt/cs/matlab/wiki/index.wiki
+/Volumes/D/UO/yt/cs/spm12/spm.wiki
+
+Data Science    [[DS/index]]
+
+Neuroimaging    [[NI/index]]
+
+[[Swimming]]

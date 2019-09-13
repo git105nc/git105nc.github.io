@@ -1,0 +1,17 @@
+= NiPy =
+
+https://nipy.org/
+
+https://github.com/nipy
+https://github.com/nipy/nipy
+https://github.com/nipy/dipy
+https://github.com/nipy/nibabel
+
+
+== MNE ==
+
+MNE - Processes magnetoencephalography (MEG) and electroencephalography (EEG) 
+data.  [[MNE]]
+
+
+

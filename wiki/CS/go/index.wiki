@@ -1,0 +1,37 @@
+= golang =
+
+Blog    [[Blog]]
+Books   [[books]]
+How to Write Go Code    [[code]]
+Coding Questions in Golang  [[Coding]]
+Documentation [[doc]]
+Testing [[testing]]
+A tour of Go    [[tour]]
+
+
+imported from:
+/Volumes/D/UO/yt/cs/go/wiki/index.wiki
+
+[[Packages]]
+
+Medium Programming  [[medium.com]]
+
+Projects:
+    - Learn CloudForest
+    - SVD in golang:
+        https://play.golang.org/p/Y4thUmtaj0
+
+https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1
+
+pointers
+// https://stackoverflow.com/questions/3601796/can-we-have-function-pointers-in-go
+https://letslearngo.wordpress.com/2016/01/13/functions-and-pointers/
+http://www.golang-book.com/books/intro/8
+
+== links ==
+https://gobyexample.com/    ~/ar/101/go
+http://www.gopl.io/
+https://www.udemy.com/course/learn-how-to-code/
+
+https://yourbasic.org/golang/
+https://reactdom.com/go

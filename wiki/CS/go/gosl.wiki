@@ -1,0 +1,36 @@
+= Gosl – Go scientific library =
+
+https://github.com/cpmech/gosl
+Gosl is a Go library to develop Artificial Intelligence and High-Performance Scientific Computations.
+AI and SC
+
+Documentation
+https://godoc.org/github.com/cpmech/gosl
+
+Installation
+https://github.com/cpmech/gosl/blob/master/doc/InstallationOnUbuntu.md
+
+https://github.com/cpmech/gosl/blob/master/doc/InstallationOnMacOS.md
+
+cd ~
+mkdir -p mygo/src/github.com/cpmech
+cd ~/mygo/src/github.com/cpmech/
+git clone https://github.com/cpmech/gosl.git
+cd gosl
+./all.bash
+
+https://github.com/cpmech/gosl/blob/master/doc/InstallAndTestGo.md
+
+mkdir -p $HOME/go/src/mylib
+cd $HOME/go/src/mylib/
+vi mylib.go
+vi t_mylib_test.go
+
+(base) ~/go/src/github.com/yt/gosl/mylib (506): go test
+Hello World from mylib!
+PASS
+ok  	github.com/yt/gosl/mylib	0.005s
+
+
+
+https://github.com/cpmech/gosl/tree/master/plt

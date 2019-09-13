@@ -1,0 +1,10 @@
+= Optimization =
+
+Lagrange Multipliers     [[LagrangeMultipliers]]
+"   /Volumes/D/z/ar/101/math/LagrangeMultipliers
+
+Nonlinear Programming   [[NLP]] 
+
+Applications: Machine Learning (ML), Support Vector Machine (SVM) ...
+"   /Volumes/D/UO/yt/cs/ML/SVM/LagrangeMultipliers
+

@@ -1,0 +1,9 @@
+= Nonlinear Programming =
+
+http://www.athenasc.com/NLP_Slides.pdf
+"   /Volumes/D/UO/yt/cs/ML/SVM/LagrangeMultipliers/
+    ./NLP_Slides.pdf
+index.wiki
+    ./wyatt.apr.7.pdf
+
+See also: Lagrange multipliers ...

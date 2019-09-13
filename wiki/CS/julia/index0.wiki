@@ -1,0 +1,13 @@
+= julia =
+
+/Volumes/D/UO/yt/cs/julia/DSwithJulia/index.wiki
+
+/Volumes/D/UO/yt/cs/julia/wiki/Documentation.wiki
+/Volumes/D/UO/yt/cs/julia/wiki/Examples.wiki
+/Volumes/D/UO/yt/cs/julia/wiki/index.wiki
+/Volumes/D/UO/yt/cs/julia/wiki/Jupyter.wiki
+/Volumes/D/UO/yt/cs/julia/wiki/Learning.wiki
+/Volumes/D/UO/yt/cs/julia/wiki/Packages.wiki
+/Volumes/D/UO/yt/cs/julia/wiki/SourceCode.wiki
+/Volumes/D/UO/yt/cs/julia/wiki/TG.wiki
+

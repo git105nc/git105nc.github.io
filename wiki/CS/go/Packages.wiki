@@ -1,0 +1,20 @@
+= Packages =
+
+https://golang.org/pkg/
+
+Learning Gonum [[gonum/index]]
+awesome-go  [[awesome-go]]
+Gosl – Go scientific library        [[gosl]]
+
+[[
+https://medium.com/mindorks/how-to-create-a-package-in-go-ae4e79b95241
+]]
+
+Testing go packages
+https://golang.org/pkg/testing/
+
+
+golang spline interpolation
+https://github.com/ready-steady/spline
+https://github.com/cnkei/gospline
+

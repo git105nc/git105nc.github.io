@@ -1,0 +1,24 @@
+= awesome-go =
+
+https://awesome-go.com/
+https://github.com/avelino/awesome-go
+
+https://github.com/mjibson/go-dsp
+https://github.com/cpmech/gosl
+Gosl – Go scientific library
+https://github.com/cpmech/gosl-examples
+
+https://github.com/ryanbressler/CloudForest
+https://github.com/avelino/awesome-go#machine-learning
+https://awesome-go.com/#machine-learning
+https://github.com/sjwhitworth/golearn      # Machine Learning for Go 
+
+Recommendation algorithms (Collaborative Filtering) in Go!
+https://github.com/timkaye11/goRecommend
+
+
+Data Analysis
+https://github.com/rocketlaunchr/dataframe-go
+
+Images
+https://github.com/fogleman/gg 

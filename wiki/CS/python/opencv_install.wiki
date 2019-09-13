@@ -1,0 +1,163 @@
+= opencv_install =
+
+Fri Jul 26 19:32:19 EDT 2019
+
+(base) ~/cs/python/opencv (517): conda install -c conda-forge opencv
+Collecting package metadata: done
+Solving environment: done
+
+
+==> WARNING: A newer version of conda exists. <==
+  current version: 4.6.14
+  latest version: 4.7.10
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+
+
+## Package Plan ##
+
+  environment location: /Volumes/D/UO/yt/anaconda3
+
+  added / updated specs:
+    - opencv
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    blas-2.10                  |         openblas           7 KB  conda-forge
+    ca-certificates-2019.6.16  |       hecc5488_0         145 KB  conda-forge
+    cairo-1.16.0               |    h0ab9d94_1001         1.3 MB  conda-forge
+    certifi-2019.6.16          |           py36_1         149 KB  conda-forge
+    conda-4.7.10               |           py36_0         3.0 MB  conda-forge
+    dbus-1.13.6                |       h2f22bb5_0         558 KB  conda-forge
+    ffmpeg-4.1.3               |       h5c2b479_0        42.4 MB  conda-forge
+    fontconfig-2.13.1          |    h1027ab8_1000         269 KB  conda-forge
+    giflib-5.1.7               |       h01d97ff_1         140 KB  conda-forge
+    glib-2.58.3                |    h9d45998_1002         3.1 MB  conda-forge
+    gnutls-3.6.5               |    h53004b3_1002         2.0 MB  conda-forge
+    graphite2-1.3.13           |    h2098e52_1000          84 KB  conda-forge
+    harfbuzz-2.4.0             |       h92b87b8_1         1.2 MB  conda-forge
+    jasper-1.900.1             |    h636a363_1006         283 KB  conda-forge
+    jpeg-9c                    |    h1de35cc_1001         237 KB  conda-forge
+    lame-3.100                 |    h1de35cc_1001         527 KB  conda-forge
+    libblas-3.8.0              |      10_openblas           6 KB  conda-forge
+    libcblas-3.8.0             |      10_openblas           6 KB  conda-forge
+    liblapack-3.8.0            |      10_openblas           6 KB  conda-forge
+    liblapacke-3.8.0           |      10_openblas           6 KB  conda-forge
+    libopenblas-0.3.6          |       hd44dcd8_5         8.4 MB  conda-forge
+    libwebp-1.0.2              |       h14d73da_2         852 KB  conda-forge
+    mkl_fft-1.0.13             |   py36h01d97ff_1         156 KB  conda-forge
+    mkl_random-1.0.4           |   py36h051e8ed_0         326 KB  conda-forge
+    nettle-3.4.1               |    h3efe00b_1002         1.0 MB  conda-forge
+    numexpr-2.6.9              |py36h1702cab_1000         128 KB  conda-forge
+    numpy-1.16.4               |   py36h926163e_0          48 KB
+    numpy-base-1.16.4          |   py36ha711998_0         4.2 MB
+    openblas-0.3.6             |       hd44dcd8_5         9.2 MB  conda-forge
+    opencv-4.1.0               |   py36h3012f30_4        30.1 MB  conda-forge
+    openh264-1.8.0             |    hd9629dc_1000         1.3 MB  conda-forge
+    openssl-1.1.1c             |       h01d97ff_0         1.9 MB  conda-forge
+    pixman-0.38.0              |    h01d97ff_1003         611 KB  conda-forge
+    scikit-learn-0.21.2        |   py36hd4ffd6c_1         5.9 MB  conda-forge
+    scipy-1.3.0                |   py36hab3da7d_0        16.0 MB  conda-forge
+    x264-1!152.20180806        |       h1de35cc_0         1.5 MB  conda-forge
+    ------------------------------------------------------------
+                                           Total:       136.9 MB
+
+The following NEW packages will be INSTALLED:
+
+  cairo              conda-forge/osx-64::cairo-1.16.0-h0ab9d94_1001
+  ffmpeg             conda-forge/osx-64::ffmpeg-4.1.3-h5c2b479_0
+  fontconfig         conda-forge/osx-64::fontconfig-2.13.1-h1027ab8_1000
+  giflib             conda-forge/osx-64::giflib-5.1.7-h01d97ff_1
+  gnutls             conda-forge/osx-64::gnutls-3.6.5-h53004b3_1002
+  graphite2          conda-forge/osx-64::graphite2-1.3.13-h2098e52_1000
+  harfbuzz           conda-forge/osx-64::harfbuzz-2.4.0-h92b87b8_1
+  jasper             conda-forge/osx-64::jasper-1.900.1-h636a363_1006
+  lame               conda-forge/osx-64::lame-3.100-h1de35cc_1001
+  libblas            conda-forge/osx-64::libblas-3.8.0-10_openblas
+  libcblas           conda-forge/osx-64::libcblas-3.8.0-10_openblas
+  liblapack          conda-forge/osx-64::liblapack-3.8.0-10_openblas
+  liblapacke         conda-forge/osx-64::liblapacke-3.8.0-10_openblas
+  libopenblas        conda-forge/osx-64::libopenblas-0.3.6-hd44dcd8_5
+  libwebp            conda-forge/osx-64::libwebp-1.0.2-h14d73da_2
+  nettle             conda-forge/osx-64::nettle-3.4.1-h3efe00b_1002
+  openblas           conda-forge/osx-64::openblas-0.3.6-hd44dcd8_5
+  opencv             conda-forge/osx-64::opencv-4.1.0-py36h3012f30_4
+  openh264           conda-forge/osx-64::openh264-1.8.0-hd9629dc_1000
+  pixman             conda-forge/osx-64::pixman-0.38.0-h01d97ff_1003
+  x264               conda-forge/osx-64::x264-1!152.20180806-h1de35cc_0
+
+The following packages will be UPDATED:
+
+  blas                              pkgs/main::blas-1.0-mkl --> conda-forge::blas-2.10-openblas
+  ca-certificates    pkgs/main::ca-certificates-2019.5.15-0 --> conda-forge::ca-certificates-2019.6.16-hecc5488_0
+  certifi                pkgs/main::certifi-2019.3.9-py36_0 --> conda-forge::certifi-2019.6.16-py36_1
+  conda                      pkgs/main::conda-4.6.14-py36_0 --> conda-forge::conda-4.7.10-py36_0
+  glib                    pkgs/main::glib-2.56.2-hd9629dc_0 --> conda-forge::glib-2.58.3-h9d45998_1002
+  jpeg                        pkgs/main::jpeg-9b-he5867d9_2 --> conda-forge::jpeg-9c-h1de35cc_1001
+  mkl_fft            pkgs/main::mkl_fft-1.0.12-py36h5e564d~ --> conda-forge::mkl_fft-1.0.13-py36h01d97ff_1
+  mkl_random         pkgs/main::mkl_random-1.0.2-py36h27c9~ --> conda-forge::mkl_random-1.0.4-py36h051e8ed_0
+  numexpr            pkgs/main::numexpr-2.6.9-py36h7413580~ --> conda-forge::numexpr-2.6.9-py36h1702cab_1000
+  scikit-learn       pkgs/main::scikit-learn-0.21.2-py36h2~ --> conda-forge::scikit-learn-0.21.2-py36hd4ffd6c_1
+  scipy               pkgs/main::scipy-1.2.1-py36h1410ff5_0 --> conda-forge::scipy-1.3.0-py36hab3da7d_0
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  dbus                    pkgs/main::dbus-1.13.6-h90a0687_0 --> conda-forge::dbus-1.13.6-h2f22bb5_0
+  openssl              pkgs/main::openssl-1.1.1c-h1de35cc_1 --> conda-forge::openssl-1.1.1c-h01d97ff_0
+
+The following packages will be DOWNGRADED:
+
+  numpy                               1.16.4-py36hacdab7b_0 --> 1.16.4-py36h926163e_0
+  numpy-base                          1.16.4-py36h6575580_0 --> 1.16.4-py36ha711998_0
+
+
+Proceed ([y]/n)?
+
+
+Downloading and Extracting Packages
+openh264-1.8.0       | 1.3 MB    | ##################################################################################################################### | 100%
+numpy-1.16.4         | 48 KB     | ##################################################################################################################### | 100%
+libcblas-3.8.0       | 6 KB      | ##################################################################################################################### | 100%
+graphite2-1.3.13     | 84 KB     | ##################################################################################################################### | 100%
+harfbuzz-2.4.0       | 1.2 MB    | ##################################################################################################################### | 100%
+libwebp-1.0.2        | 852 KB    | ##################################################################################################################### | 100%
+lame-3.100           | 527 KB    | ##################################################################################################################### | 100%
+glib-2.58.3          | 3.1 MB    | ##################################################################################################################### | 100%
+ffmpeg-4.1.3         | 42.4 MB   | ##################################################################################################################### | 100%
+certifi-2019.6.16    | 149 KB    | ##################################################################################################################### | 100%
+blas-2.10            | 7 KB      | ##################################################################################################################### | 100%
+opencv-4.1.0         | 30.1 MB   | ##################################################################################################################### | 100%
+mkl_fft-1.0.13       | 156 KB    | ##################################################################################################################### | 100%
+giflib-5.1.7         | 140 KB    | ##################################################################################################################### | 100%
+scikit-learn-0.21.2  | 5.9 MB    | ##################################################################################################################### | 100%
+openssl-1.1.1c       | 1.9 MB    | ##################################################################################################################### | 100%
+dbus-1.13.6          | 558 KB    | ##################################################################################################################### | 100%
+fontconfig-2.13.1    | 269 KB    | ##################################################################################################################### | 100%
+numexpr-2.6.9        | 128 KB    | ##################################################################################################################### | 100%
+pixman-0.38.0        | 611 KB    | ##################################################################################################################### | 100%
+numpy-base-1.16.4    | 4.2 MB    | ##################################################################################################################### | 100%
+scipy-1.3.0          | 16.0 MB   | ##################################################################################################################### | 100%
+gnutls-3.6.5         | 2.0 MB    | ##################################################################################################################### | 100%
+jasper-1.900.1       | 283 KB    | ##################################################################################################################### | 100%
+conda-4.7.10         | 3.0 MB    | ##################################################################################################################### | 100%
+cairo-1.16.0         | 1.3 MB    | ##################################################################################################################### | 100%
+openblas-0.3.6       | 9.2 MB    | ##################################################################################################################### | 100%
+nettle-3.4.1         | 1.0 MB    | ##################################################################################################################### | 100%
+ca-certificates-2019 | 145 KB    | ##################################################################################################################### | 100%
+liblapack-3.8.0      | 6 KB      | ##################################################################################################################### | 100%
+libblas-3.8.0        | 6 KB      | ##################################################################################################################### | 100%
+x264-1!152.20180806  | 1.5 MB    | ##################################################################################################################### | 100%
+liblapacke-3.8.0     | 6 KB      | ##################################################################################################################### | 100%
+libopenblas-0.3.6    | 8.4 MB    | ##################################################################################################################### | 100%
+mkl_random-1.0.4     | 326 KB    | ##################################################################################################################### | 100%
+jpeg-9c              | 237 KB    | ##################################################################################################################### | 100%
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+(base) ~/cs/python/opencv

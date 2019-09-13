@@ -1,0 +1,9 @@
+= Lagrange Multipliers =     
+
+https://en.wikipedia.org/wiki/Lagrange_multiplier
+
+Conceptual introduction (plus a brief discussion of Lagrange multipliers 
+in the calculus of variations as used in physics) -- Very illuminating   
+http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html
+"   /Volumes/D/z/ar/101/math/LagrangeMultipliers
+

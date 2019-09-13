@@ -1,0 +1,17 @@
+== Plots ==
+
+http://docs.juliaplots.org/latest/
+Read the tutorial first.
+http://docs.juliaplots.org/latest/tutorial/
+
+http://www.breloff.com/JuliaML-and-Plots/
+
+https://github.com/JuliaPlots/StatsPlots.jl
+
+https://github.com/scidom/StatsLearningByExample.jl
+https://github.com/JuliaPlots/Plots.jl/tree/master/src
+
+
+
+
+

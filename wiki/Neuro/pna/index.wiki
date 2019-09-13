@@ -1,0 +1,8 @@
+= index =
+
+UC Berkeley course on practical neuroimaging analysis   [[ucbpna]]
+
+Machine learning for Neuro-Imaging in Python    [[Nilearn]]
+
+NiPy ecosystem  https://nipy.org/
+[[NiPy]]

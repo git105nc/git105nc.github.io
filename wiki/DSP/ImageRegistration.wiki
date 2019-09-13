@@ -1,0 +1,7 @@
+= Image Registration =
+
+./m2/ba.wiki:2012 Image Registration Principles, Tools and Methods A. Ardeshir Goshtasby ISBN: 978-1-4471-2457-3 (Print) 978-1-4471-2458-0 (Online)  bok%3A978-1-4471-2458-0.pdf
+
+Goshtasby, A (2005). 2-D and 3-D Image Registration: for Medical, Remote Sensing, and Industrial
+"   /Volumes/D/z/ar02/b/
+2-Dand3-DImageRegistrationforMedicalRemoteSensingandIndustrialApplications.pdf

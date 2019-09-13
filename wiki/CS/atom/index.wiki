@@ -1,0 +1,11 @@
+= atom =
+
+/Volumes/D/UO/yt/cs/atom/config.wiki
+/Volumes/D/UO/yt/cs/atom/index.wiki
+
+
+install     [[install]]
+power tips  [[tips]]
+uninstall   [[uninstall]] 
+welcome guide   [[guide]]
+[[config]] atom

@@ -1,0 +1,9 @@
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9788.toc
+SPIE Digital library - 
+PROCEEDINGS VOLUME 9788
+SPIE MEDICAL IMAGING | 27 FEBRUARY - 3 MARCH 2016
+Medical Imaging 2016: Biomedical Applications in Molecular, Structural, and Functional Imaging
+
+Comparative study of multimodal intra-subject image registration methods on a publicly available database
+
+

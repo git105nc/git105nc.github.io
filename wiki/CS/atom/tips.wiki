@@ -1,0 +1,21 @@
+= power tips =
+
+https://www.creativebloq.com/advice/10-power-tips-for-atom-users
+
+apm --help
+apm upgrade
+apm install hydrogen
+
+## 20190130
+~/cs (501): apm upgrade
+Package Updates Available (2)
+├── autocomplete-python 1.11.0 -> 1.12.0
+└── file-icons 2.1.28 -> 2.1.29
+
+Would you like to install these updates? (yes) 
+
+Installing autocomplete-python@1.12.0 to /Volumes/D/UO/yt/.atom/packages ✓
+Installing file-icons@2.1.29 to /Volumes/D/UO/yt/.atom/packages ✓
+
+
+

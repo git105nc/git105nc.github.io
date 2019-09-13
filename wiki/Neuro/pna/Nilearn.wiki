@@ -1,0 +1,14 @@
+Nilearn:
+Machine learning for Neuro-Imaging in Python
+https://nilearn.github.io/
+
+"   /Volumes/D/z/ar/cs/py/
+auto_examples_jupyter.zip
+auto_examples_python.zip
+nilearn.github.io-master.zip
+
+== workout ==
+"   /Volumes/D/UO/yt/ds/nilearn.github.io-master/
+"   /Volumes/D/UO/yt/ds/nilearn/
+"   /Volumes/D/UO/yt/ds/nilearn/workout
+

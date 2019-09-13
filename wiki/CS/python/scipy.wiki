@@ -1,0 +1,76 @@
+= SciPy.org =
+
+https://docs.scipy.org/doc/
+
+https://www.scipy.org/docs.html
+    Numpy
+    Scipy
+    Matplotlib
+    IPython
+    SymPy
+    Pandas
+
+https://www.scipy.org/getting-started.html
+One way of getting a handle on the scientific computation tools in Python is to take a look at the following online resources:
+
+    - Python Scientific Lecture Notes
+    - NumPy User Guide
+    - SciPy Tutorial contains examples for each submodule in the SciPy library
+    - Matplotlib beginner’s guide
+    - Pandas tutorials
+    - Sympy tutorial
+
+Python Scientific Lecture Notes
+http://scipy-lectures.org/index.html
+
+NumPy User Guide
+https://www.numpy.org/devdocs/user/
+https://www.numpy.org/devdocs/user/quickstart.html
+
+
+== numpy ==
+
+https://docs.scipy.org/doc/numpy/numpy-html-1.16.1.zip
+https://docs.scipy.org/doc/numpy/numpy-ref-1.16.1.pdf
+
+
+== scipy ==
+
+https://docs.scipy.org/doc/scipy/reference/tutorial/signal.html
+https://docs.scipy.org/doc/scipy/scipy-html-1.3.0.zip
+https://docs.scipy.org/doc/scipy/scipy-ref-1.3.0.pdf
+
+https://docs.scipy.org/doc/scipy/reference/
+
+== Matplotlib ==
+
+https://matplotlib.org/contents.html
+https://matplotlib.org/Matplotlib.pdf
+
+
+== IPython ==
+
+http://ipython.org/ipython-doc/stable/index.html
+This documentation is for an old version of IPython. 
+You can find docs for newer versions here:
+https://ipython.readthedocs.io/en/stable/
+
+
+== SymPy ==
+
+https://docs.sympy.org/latest/index.html
+sympy-docs-pdf-1.4.pdf
+https://docs.sympy.org/latest/tutorial/index.html
+https://docs.sympy.org/latest/tutorial/index.html#tutorial
+
+
+== Pandas ==
+
+https://pandas.pydata.org/pandas-docs/stable/
+https://pandas.pydata.org/pandas-docs/stable/pandas.pdf
+
+https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+
+
+
+

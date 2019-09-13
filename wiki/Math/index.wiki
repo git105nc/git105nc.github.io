@@ -1,0 +1,56 @@
+== index ==
+
+Distributions
+Manifolds
+RKHS 
+
+Matrix Computation      [[MC/index]]
+Optimization    [[Optimization]]
+
+[[Spline]]
+
+
+||
+
+== Manifolds ==
+
+Analysis on Manifolds by James R. Munkres (1991)
+http://fourier.math.uoc.gr/~papadim/calculus_on_manifolds/Munkres.pdf
+
+||
+
+== RKHS == 
+
+berlinet2011reproducing.pdf
+
+https://www.math.uh.edu/~vern/rkhs.pdf
+
+https://arxiv.org/pdf/1408.0952v2.pdf
+
+https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space
+very nice to see: RKHS = { bandlimited functions } 
+
+"   /Volumes/D/z/ar/lu/lx3/ba2016.txt
+"   ~/b2016/RKHS/
+
+https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space
+http://www.maths.ed.ac.uk/~aar/papers/rademacher2.pdf
+http://www.umiacs.umd.edu/~hal/docs/daume04rkhs.pdf
+http://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/7.pdf
+Jonathan H. Manton A Primer on Reproducing Kernel Hilbert Spaces https://arxiv.org/pdf/1408.0952v2.pdf
+N. Aronszajn 1950 Theory of Reproducing Kernels.  Transactions of the American Mathematical Society, Vol. 68, No. 3 (May, 1950), pp.  337-404 http://www.math.drexel.edu/~tolya/Aronszajn_RKHS.pdf
+AN INTRODUCTION TO THE THEORY OF REPRODUCING KERNEL HILBERT SPACES VERN I. PAULSEN https://www.math.uh.edu/~vern/rkhs.pdf
+Okutmustur, Baver. “Reproducing Kernel Hilbert Spaces,” Ph.D. dissertation, Bilkent University, http://www.thesis.bilkent.edu.tr/0002953.pdf, August 2005.
+
+||
+
+== Distributions ==
+
+56009170-A-Guide-to-Distribution-Theory-and-Fourier-Transforms-Robert-S-Strichartz-9780849382734.pdf
+
+"   /Volumes/D/z/ar/a/olver
+
+||
+
+
+

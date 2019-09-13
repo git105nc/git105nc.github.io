@@ -1,0 +1,7 @@
+= Matrix Computation (MC) =
+
+BLAS
+https://stackoverflow.com/questions/1303182/how-does-blas-get-such-extreme-performance
+
+
+LAPACK

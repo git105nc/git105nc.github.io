@@ -1,0 +1,6 @@
+= Machine Learning =
+
+Support Vector Machine   [[SVM/index]]
+
+/Volumes/D/UO/yt/cs/ML/SVM/LagrangeMultipliers/index.wiki
+/Volumes/D/UO/yt/cs/ML/SVM/svm-succinctly/index.wiki

@@ -1,0 +1,29 @@
+= Learning =
+
+Resources:
+https://julialang.org/learning/
+
+https://syl1.gitbook.io/julia-language-a-concise-tutorial/
+https://gitconnected.com/learn/julia
+
+Written
+https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/
+https://www.analyticsvidhya.com/blog/2015/07/julia-language-getting-started/
+
+
+A Deep Introduction to Julia for Data Science and Scientific Computing
+https://github.com/UCIDataScienceInitiative/IntroToJulia
+http://ucidatascienceinitiative.github.io/IntroToJulia/
+"   /Volumes/D/z/ar/101/julia/IntroToJulia-master
+"   /Volumes/D/z/ar/101/julia/IntroToJulia-master/Html
+[ Note: Index.html is modified from Index.html.bup (original) for the links 
+to work. ]
+"   /Volumes/D/z/ar/101/julia/IntroToJulia-master/Notebooks
+cp to ~/cs/julia/IntroToJulia/
+
+[[Arrays]]
+[[DSP]]
+[[ML]]
+[[Plots]]
+[[Stat]]
+

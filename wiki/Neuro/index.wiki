@@ -1,0 +1,44 @@
+= Neuro =
+
+Practical neuroimaging      [[pna/index]]
+
+== Image Registration ==
+
+20171029: Merged with /Volumes/D/z/a/brain/ImageRegistration
+
+=== 07kostelec.pdf ===
+Abstract. To register two images means to align them so that common features overlap and differences — for example, a tumor that has grown — are readily apparent. Being able to easily spot differences between two images is obviously very important in applications. This paper is an intro- duction to image registration as applied to medical imaging. We first define image registration, breaking the problem down into its constituent compo- nent. We then discuss various techniques, reflecting different choices that can be made in developing an image registration technique. We conclude with a brief discussion.
+
+=== 10.1.1.371.3795.pdf ===
+CHAPTER 8 Image Registration
+J. Michael Fitzpatrick, et al.
+
+
+=== MII_registration10.pdf ===
+=== regis2012.pdf ===
+
+http://sbisc.sharif.edu/~miap/Files/Medical%20Image%20Registration.pdf
+MedicalImageRegistration.pdf @article{hill2001medical,
+
+
+A survey of image registration techniques ... Brown (1992)
+http://www.gardeux-vincent.eu/These/Papiers/Bibli1/Brown92.pdf
+Brown92.pdf @article{brown1992survey,
+A comprehensive survey of image registration methods
+
+http://adessowiki.fee.unicamp.br/media/Attachments/courseIA369O1S2011/MainPage/registration_survey_2.pdf
+registration_survey_2.pdf @article{zitova2003image,
+10.1.1.86.8364.pdf 
+This paper aims to present a review of recent as well as classic image registration methods.
+... The intention of our article is to cover relevant approaches introduced later and in this way map the current development of registration techniques.
+[This is the 2nd survey in 2003, after Brown 1992.]
+
+https://dspace.library.uu.nl/bitstream/handle/1874/18921/maintz_98_an_overview.pdf
+% maintz_98_an_overview.pdf	        1995670 Sun Oct 29 13:32:08 2017
+@article{maintz1998survey,
+[scanned pdf]
+
+http://www.cs.jhu.edu/~cis/cista/746/papers/Fitzpatrick93ReviewOfRegistration.pdf
+
+
+Find that nice python paper ... by Roche ...

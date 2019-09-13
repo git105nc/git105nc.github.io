@@ -1,0 +1,311 @@
+= config =
+
+https://atom.io/
+https://atom.io/docs
+https://flight-manual.atom.io/getting-started/sections/installing-atom/
+which atom
+
+To install the atom and apm commands, run "Window: Install Shell Commands" from the Command Palette, which will prompt you for an administrator password.
+https://flight-manual.atom.io/getting-started/sections/atom-basics/#command-palette
+
+script
+file icon
+minimap
+minimap-highlight-selected
+python autocomplete
+linter-flake8       ## need to install using pip or conda
+          conda install -c anaconda flake8
+          apm install linter-flake8
+editor ... modify tabs ...
+python-autopep8     [check: format and save]
+
+
+https://anaconda.org/anaconda/flake8
+Before installing linter-flake8, do:
+
+~/a/conda (529): conda install -c anaconda flake8
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /Volumes/D/anaconda3
+
+  added / updated specs: 
+    - flake8
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    openssl-1.0.2p             |       h1de35cc_0         3.4 MB  anaconda
+    flake8-3.5.0               |           py35_1         122 KB  anaconda
+    setuptools-40.2.0          |           py35_0         571 KB  anaconda
+    certifi-2018.8.24          |           py35_1         139 KB  anaconda
+    mccabe-0.6.1               |   py35h3f6a9a1_0          13 KB  anaconda
+    pycodestyle-2.3.1          |   py35he0976b1_0          55 KB  anaconda
+    ca-certificates-2018.03.07 |                0         124 KB  anaconda
+    ------------------------------------------------------------
+                                           Total:         4.4 MB
+
+The following NEW packages will be INSTALLED:
+
+    ca-certificates: 2018.03.07-0         anaconda
+    certifi:         2018.8.24-py35_1     anaconda
+    flake8:          3.5.0-py35_1         anaconda
+    mccabe:          0.6.1-py35h3f6a9a1_0 anaconda
+    pycodestyle:     2.3.1-py35he0976b1_0 anaconda
+
+The following packages will be UPDATED:
+
+    openssl:         1.0.2l-0                      --> 1.0.2p-h1de35cc_0 anaconda
+    setuptools:      27.2.0-py35_0                 --> 40.2.0-py35_0     anaconda
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+openssl-1.0.2p       | 3.4 MB    | ##################################################################################################################### | 100% 
+flake8-3.5.0         | 122 KB    | ##################################################################################################################### | 100% 
+setuptools-40.2.0    | 571 KB    | ##################################################################################################################### | 100% 
+certifi-2018.8.24    | 139 KB    | ##################################################################################################################### | 100% 
+mccabe-0.6.1         | 13 KB     | ##################################################################################################################### | 100% 
+pycodestyle-2.3.1    | 55 KB     | ##################################################################################################################### | 100% 
+ca-certificates-2018 | 124 KB    | ##################################################################################################################### | 100% 
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+
+== zd3 ==
+
+~ (707): atom
+~ (708): conda -V
+conda 4.5.11
+~ (709): conda update conda
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /home/yt/anaconda3
+
+  added / updated specs:
+    - conda
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    certifi-2018.11.29         |           py37_0         146 KB
+
+The following packages will be UPDATED:
+
+    certifi: 2018.8.24-py37_1 --> 2018.11.29-py37_0
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+certifi-2018.11.29   | 146 KB    | ##################################################################################################################### | 100%
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+
+(base) ~ (710): conda install -c anaconda flake8
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /home/yt/anaconda3
+
+  added / updated specs: 
+    - flake8
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    certifi-2018.10.15         |           py37_0         138 KB  anaconda
+    conda-4.5.11               |           py37_0         1.0 MB  anaconda
+    flake8-3.6.0               |           py37_0         124 KB  anaconda
+    openssl-1.0.2p             |       h14c3975_0         3.5 MB  anaconda
+    ca-certificates-2018.03.07 |                0         124 KB  anaconda
+    ------------------------------------------------------------
+                                           Total:         4.8 MB
+
+The following NEW packages will be INSTALLED:
+
+    flake8:          3.6.0-py37_0      anaconda
+
+The following packages will be UPDATED:
+
+    ca-certificates: 2018.03.07-0               --> 2018.03.07-0      anaconda
+    conda:           4.5.11-py37_0              --> 4.5.11-py37_0     anaconda
+    openssl:         1.0.2p-h14c3975_0          --> 1.0.2p-h14c3975_0 anaconda
+
+The following packages will be DOWNGRADED:
+
+    certifi:         2018.11.29-py37_0          --> 2018.10.15-py37_0 anaconda
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+certifi-2018.10.15   | 138 KB    | ##################################################################################################################### | 100% 
+conda-4.5.11         | 1.0 MB    | ##################################################################################################################### | 100% 
+flake8-3.6.0         | 124 KB    | ##################################################################################################################### | 100% 
+openssl-1.0.2p       | 3.5 MB    | ##################################################################################################################### | 100% 
+ca-certificates-2018 | 124 KB    | ##################################################################################################################### | 100% 
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+
+~ (708): which atom
+/usr/bin/atom
+~ (709): apm install linter-flake8
+Installing linter-flake8 to /home/yt/.atom/packages ✓
+
+== m02 ==
+
+~/cs/atom (502): conda install -c anaconda flake8
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /Volumes/D/UO/yt/anaconda3
+
+  added / updated specs:
+    - flake8
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    pyflakes-2.0.0             |           py36_0          87 KB  anaconda
+    openssl-1.0.2p             |       h1de35cc_0         3.4 MB  anaconda
+    certifi-2018.10.15         |           py36_0         138 KB  anaconda
+    flake8-3.6.0               |           py36_0         124 KB  anaconda
+    conda-4.5.11               |           py36_0         1.0 MB  anaconda
+    ca-certificates-2018.03.07 |                0         124 KB  anaconda
+    ------------------------------------------------------------
+                                           Total:         4.9 MB
+
+The following NEW packages will be INSTALLED:
+
+    flake8:          3.6.0-py36_0         anaconda
+
+The following packages will be REMOVED:
+
+    anaconda:        5.2.0-py36_3
+
+The following packages will be UPDATED:
+
+    ca-certificates: 2018.03.07-0                  --> 2018.03.07-0      anaconda
+    certifi:         2018.4.16-py36_0              --> 2018.10.15-py36_0 anaconda
+    conda:           4.5.4-py36_0                  --> 4.5.11-py36_0     anaconda
+    openssl:         1.0.2o-h26aff7b_0             --> 1.0.2p-h1de35cc_0 anaconda
+    pyflakes:        1.6.0-py36hea45e83_0          --> 2.0.0-py36_0      anaconda
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+pyflakes-2.0.0       |   87 KB | ####################################################################################################################### | 100%
+openssl-1.0.2p       |  3.4 MB | ####################################################################################################################### | 100%
+certifi-2018.10.15   |  138 KB | ####################################################################################################################### | 100%
+flake8-3.6.0         |  124 KB | ####################################################################################################################### | 100%
+conda-4.5.11         |  1.0 MB | ####################################################################################################################### | 100%
+ca-certificates-2018 |  124 KB | ####################################################################################################################### | 100%
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+~/cs/atom (503): conda update conda
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /Volumes/D/UO/yt/anaconda3
+
+  added / updated specs:
+    - conda
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    conda-4.5.11               |           py36_0         1.0 MB
+    openssl-1.0.2p             |       h1de35cc_0         3.4 MB
+    ca-certificates-2018.03.07 |                0         124 KB
+    certifi-2018.11.29         |           py36_0         146 KB
+    ------------------------------------------------------------
+                                           Total:         4.7 MB
+
+The following packages will be UPDATED:
+
+    ca-certificates: 2018.03.07-0      anaconda --> 2018.03.07-0
+    certifi:         2018.10.15-py36_0 anaconda --> 2018.11.29-py36_0
+    conda:           4.5.11-py36_0     anaconda --> 4.5.11-py36_0
+    openssl:         1.0.2p-h1de35cc_0 anaconda --> 1.0.2p-h1de35cc_0
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+conda-4.5.11         | 1.0 MB    | ##################################################################################################################### | 100%
+openssl-1.0.2p       | 3.4 MB    | ##################################################################################################################### | 100%
+ca-certificates-2018 | 124 KB    | ##################################################################################################################### | 100%
+certifi-2018.11.29   | 146 KB    | ##################################################################################################################### | 100%
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+~/cs/atom (504): conda install -c anaconda flake8
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /Volumes/D/UO/yt/anaconda3
+
+  added / updated specs:
+    - flake8
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    openssl-1.0.2p             |       h1de35cc_0         3.4 MB  anaconda
+    ca-certificates-2018.03.07 |                0         124 KB  anaconda
+    conda-4.5.11               |           py36_0         1.0 MB  anaconda
+    ------------------------------------------------------------
+                                           Total:         4.6 MB
+
+The following packages will be UPDATED:
+
+    ca-certificates: 2018.03.07-0      --> 2018.03.07-0      anaconda
+    conda:           4.5.11-py36_0     --> 4.5.11-py36_0     anaconda
+    openssl:         1.0.2p-h1de35cc_0 --> 1.0.2p-h1de35cc_0 anaconda
+
+The following packages will be DOWNGRADED:
+
+    certifi:         2018.11.29-py36_0 --> 2018.10.15-py36_0 anaconda
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+openssl-1.0.2p       | 3.4 MB    | ##################################################################################################################### | 100%
+ca-certificates-2018 | 124 KB    | ##################################################################################################################### | 100%
+conda-4.5.11         | 1.0 MB    | ##################################################################################################################### | 100%
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+~/cs/atom (505): apm install linter-flake8
+Installing linter-flake8 to /Volumes/D/UO/yt/.atom/packages ✓
+~/cs/atom (506): atom
+
+
+
+

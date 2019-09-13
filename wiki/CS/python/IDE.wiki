@@ -1,0 +1,9 @@
+= IDE =
+
+~ (101): jupyter notebook 
+
+More info:
+/Volumes/D/UO/yt/cs/python/101/jupyter/index.wiki
+/Volumes/D/UO/yt/cs/python/101/spyder/index.wiki
+Also: see IDE in ../index.wiki
+

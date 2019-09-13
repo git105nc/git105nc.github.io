@@ -1,0 +1,26 @@
+= How to Write Go Code =
+
+
+Workspaces
+https://golang.org/doc/code.html#Workspaces
+All codes should be done in ~/go/src/
+
+
+https://golang.org/doc/code.html
+Introduction - [[screencast]]
+
+[[
+https://golang.org/doc/effective_go.html
+
+The Go package sources https://golang.org/src/ are intended to 
+serve not only as the core library but also as examples of how 
+to use the language.
+]]
+
+Learning Gonum [[gonum/index]]
+
+The Go Playground
+https://play.golang.org/
+
+
+

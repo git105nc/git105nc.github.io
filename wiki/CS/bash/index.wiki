@@ -1,0 +1,18 @@
+= bash =
+
+see vimwiki/bash/
+
+== tar ==
+create: tar xcvf a.tgz a
+list:   tar tvf a.tgz '*search_me*'
+        tar ztvf a.tgz '*search_me*'
+        
+== find ==
+find . -type f -newermt 20190901
+
+
+== find and delete ==
+	find ~/Movies/  -name "*.mp4" -type f -delete
+	
+
+

@@ -1,0 +1,11 @@
+= Towards Data Science (TDS) =
+Sharing concepts, ideas, and codes
+
+
+Thu Aug  1 09:42:13 EDT 2019
+https://towardsdatascience.com/
+
+https://towardsdatascience.com/detecting-faces-with-python-and-opencv-face-detection-neural-network-f72890ae531c
+
+https://towardsdatascience.com/contextual-emotion-detection-in-textual-conversations-using-neural-networks-381e3d8490c4
+

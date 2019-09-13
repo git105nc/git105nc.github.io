@@ -1,0 +1,30 @@
+= Spline =
+
+http://www.physics.muni.cz/~jancely/NM/Texty/Numerika/CubicSmoothingSpline.pdf
+
+https://www.cs.utexas.edu/~cline/CS383D/ReinschSmoothing.pdf
+Excellent comment on Reinsch's 1967 paper.
+Reinsch_1967.pdf
+reinsch2.pdf
+
+craven1978smoothing.pdf
+
+https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19740008165.pdf
+
+http://cypresspoint.com/research/Smoothing%20Noisy%20Data%20with%20Spline%20Functions-Hutchinson.pdf    GCV in 1985!
+
+https://web.stanford.edu/class/stats202/content/lec17.pdf
+
+
+ A Simple Smoothing Spline
+ R. L. Eubank
+ The American Statistician
+ Vol. 48, No. 2 (May, 1994), pp. 103-106 
+2684256.pdf
+1-s2.0-S037837589900021X-main.pdf
+BF02892058.pdf
+
+http://www.stat.cmu.edu/~ryantibs/advmethods/notes/smoothspline.pdf
+smoothspline.pdf
+
+5731.The theory of splines and their applications, Volume 38 (Mathematics in Science and Engineering) by Ahlberg.djvu   (1967)

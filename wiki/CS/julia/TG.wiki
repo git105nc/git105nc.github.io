@@ -1,0 +1,93 @@
+= julia: Tour Guide =
+
+== # Julia Learning Resources ==
+
+https://julialang.org/learning/
+
+
+== ##  A Comprehensive Tutorial to Learn Data Science with Julia from Scratch by Mohd Sanad Zaki Rizvi ==
+
+https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/
+
+file:///Volumes/D/UO/yt/cs/julia/DSwithJulia/html/www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/index.html
+
+Go thru it and check out several important links (see below)
+
+It is also a great start for using the notebooks (*.ipynb) in this directory.
+Worked out:
+
+Julia Fundamental.ipynb
+
+DataFrame.ipynb
+
+== ##  A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas ==
+
+http://ucidatascienceinitiative.github.io/IntroToJulia/
+
+
+== ## Dataframes ==
+
+https://github.com/JuliaData/DataFrames.jl/blob/master/docs/src/man/
+
+Go thru all the .md files and they are very useful.
+
+https://github.com/JuliaData/DataFrames.jl/blob/master/docs/src/man/getting_started.md
+Categorical Data
+
+https://github.com/JuliaData/DataFrames.jl/blob/master/docs/src/man/categorical.md
+Missing values
+
+https://github.com/JuliaData/DataFrames.jl/blob/master/docs/src/man/missing.md
+split and combine
+
+https://github.com/JuliaData/DataFrames.jl/blob/master/docs/src/man/split_apply_combine.md
+Illustrated the use of stack()
+
+https://github.com/JuliaData/DataFrames.jl/blob/master/docs/src/man/reshaping_and_pivoting.md
+Example:
+
+DataFrame.ipynb -- with lots of updates such as CSV, StatsPlots ...
+
+
+== ## Visualisation ==
+
+### Plots
+
+http://docs.juliaplots.org/latest/
+Read the tutorial first. http://docs.juliaplots.org/latest/tutorial/
+
+http://www.breloff.com/JuliaML-and-Plots/
+
+https://github.com/JuliaPlots/StatsPlots.jl
+
+https://github.com/scidom/StatsLearningByExample.jl
+https://github.com/JuliaPlots/Plots.jl/tree/master/src
+Example:
+
+Visualizations.ipynb
+
+dropna is not working in v.1.1. Replace it with collect(dropmissing(df[:var]))
+To do:
+
+Please run
+
+]rm StatPlots ]add StatsPlots
+
+
+== ## ML ==
+
+http://www.breloff.com/JuliaML-and-Plots/
+
+https://github.com/JuliaML
+
+https://github.com/tbreloff/notebooks/blob/master/juliaml_mnist.ipynb
+
+
+
+== Scripting ==
+
+For scripting, use JUNO. For DS and reports, use Jupyter.
+
+
+
+

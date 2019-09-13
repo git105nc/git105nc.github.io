@@ -1,0 +1,6 @@
+== ML ==
+
+https://github.com/JuliaML
+https://github.com/tbreloff/notebooks/blob/master/juliaml_mnist.ipynb
+https://www.kdnuggets.com/2016/08/top-machine-learning-projects-julia.html
+

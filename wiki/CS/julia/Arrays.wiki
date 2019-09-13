@@ -1,0 +1,5 @@
+== Arrays ==
+
+https://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples#Creating_simple_arrays
+
+https://stackoverflow.com/questions/52563278/create-an-empty-multidimensional-array-of-a-union-type-in-julia

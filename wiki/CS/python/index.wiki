@@ -1,0 +1,38 @@
+= python =
+
+/Volumes/D/UO/yt/cs/python/index.wiki
+
+Lots of stuff in
+"   /Volumes/D/z/a/conda/wiki
+"   /Volumes/D/z/a/conda/wiki/usingconda.wiki
+"   /Volumes/D/z/a/python/
+"   /Volumes/D/UO/yt/a/python
+
+conda   [[conda]]
+
+SciPy.org   [[scipy]]
+
+
+
+Nipype: Neuroimage in python, pipelines and interfaces  [[Nipype]]
+/Volumes/D/UO/yt/cs/python/fMRI/wiki/index.wiki
+/Volumes/D/UO/yt/cs/python/fMRI/wiki/SliceTiming.wiki
+
+
+[[101]]
+
+FAQ [[faq]]
+
+IDE     [[IDE]]
+
+[[DSP]]
+/Volumes/D/UO/yt/cs/python/dsp/wiki/index.wiki
+
+[[opencv]]
+[[opencv_install]]
+How to use opencv in python:  [[opencv_how]]
+
+[[ML]]
+https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
+https://machinelearningmastery.com/effect-size-measures-in-python/
+

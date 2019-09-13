@@ -1,0 +1,8 @@
+= MNE =
+
+MNE is a software package for processing magnetoencephalography (MEG) and electroencephalography (EEG) data. 
+
+https://nipy.org/packages/mne/index.html
+https://github.com/mne-tools/mne-python
+http://martinos.org/mne/stable/index.html
+

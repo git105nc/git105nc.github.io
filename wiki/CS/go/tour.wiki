@@ -1,0 +1,13 @@
+= A tour of Go =
+
+https://tour.golang.org/
+
+Inside tour, Very helpful to read:
+https://blog.golang.org/gos-declaration-syntax
+https://blog.golang.org/defer-panic-and-recover
+
+Tour examples are in
+"   /Volumes/D/UO/yt/go/src/golang.org/x/tour/content
+
+
+

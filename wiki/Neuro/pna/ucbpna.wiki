@@ -1,0 +1,8 @@
+UC Berkeley course on practical neuroimaging analysis   
+
+https://bic-berkeley.github.io/psych-214-fall-2016/
+https://github.com/psych-214-fall-2016
+
+https://practical-neuroimaging.github.io/index.html
+https://github.com/practical-neuroimaging/pna2015
+

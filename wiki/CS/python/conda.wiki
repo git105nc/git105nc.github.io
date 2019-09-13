@@ -1,0 +1,55 @@
+= conda =
+
+Full doc: https://conda.io/en/latest/
+https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html
+"   /Volumes/D/z/ar02/wiki/CS/python/conda-cheatsheet.pdf
+
+https://docs.conda.io/projects/conda/en/latest/user-guide/index.html
+https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
+#managing-conda
+#managing-envs
+
+== miniconda ==
+https://conda.io/en/latest/miniconda.html
+
+
+== anaconda ==
+
+https://docs.anaconda.com/anaconda/install/
+https://docs.anaconda.com/anaconda/install/linux/
+https://docs.anaconda.com/anaconda/install/uninstall/
+conda install anaconda-clean
+anaconda-clean --yes
+rm -fr ~/anaconda3
+
+== update ==
+
+$ conda update -n base -c defaults conda
+
+update log:
+"   /Volumes/D/z/var/conda
+
+
+=== manage env ===
+
+https://docs.conda.io/projects/conda/en/latest/commands.html
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+
+conda info --help
+conda info -e [--envs]
+conda create --help
+conda create -n myenv python=3.4 scipy=0.15.0 astroid babel
+conda env create -f environment.yml
+conda list -n myenv  # List all packages and versions in a named environment
+conda remove --name myenv --all
+
+
+conda install -y jupyter
+jupyter notebook
+
+Jeff Heaton:    set up tensorflow ...
+https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_01_1_overview.ipynb
+
+
+

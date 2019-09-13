@@ -1,0 +1,27 @@
+= Nipype =
+
+Nipype: Neuroimage in python, pipelines and interfaces  
+
+https://nipype.readthedocs.io/en/latest/quickstart.html
+https://nipype.readthedocs.io/en/latest/users/install.html
+https://github.com/miykael/nipype_tutorial
+https://miykael.github.io/nipype_tutorial/notebooks/introduction_nipype.html
+https://miykael.github.io/nipype_tutorial/notebooks/introduction_docker.html
+- You don't need Docker to run Nipype on Mac or Linux:
+https://miykael.github.io/nipype_tutorial/notebooks/resources_installation.html
+
+
+Nipy
+https://nipy.org/packages/nipype/index.html
+https://anaconda.org/conda-forge/nipy
+
+
+nireg
+https://github.com/nipy/nireg
+https://github.com/nipy/nireg/blob/master/doc/users/installation.rst
+
+imreg   [this is quite dated ..., any newer version?]
+https://github.com/pyimreg/imreg
+https://github.com/pyimreg/python-register
+
+

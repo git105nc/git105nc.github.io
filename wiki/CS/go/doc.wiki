@@ -1,0 +1,31 @@
+= doc =
+
+https://golang.org/doc/install
+See script:
+"   /home/yt/cs/Golang/wiki/Install.wiki
+
+https://golang.org/doc/
+
+Effective Go https://golang.org/doc/effective_go.html
+FAQ https://golang.org/doc/faq
+
+Go package sources  https://golang.org/src/
+https://golang.org/pkg/
+
+https://golang.org/wiki
+
+= testing = 
+
+https://www.calhoun.io/how-to-test-with-go/
+
+https://quii.gitbook.io/learn-go-with-tests/
+
+?? https://medium.com/rate-engineering/go-test-your-code-an-introduction-to-effective-testing-in-go-6e4f66f2c259
+
+https://medium.com/wireless-registry-engineering/gonum-tutorial-linear-algebra-in-go-21ef136fc2d7
+
+== Must read ==
+
+https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65#.qu6he77fy
+
+
