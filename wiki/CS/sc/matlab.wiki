@@ -1,0 +1,76 @@
+= MATLAB =
+Sun 08 Sep 2019 05:44:07 PM EDT
+
+(base) ~ (2000): Gtk-Message: 00:56:01.587: Failed to load module "canberra-gtk-module"
+https://github.com/MajeurAndroid/Adb-Remote-Screen/issues/14
+
+== Ubuntu 1804 ==
+https://linuxconfig.org/how-to-install-matlab-on-ubuntu-18-04-bionic-beaver-linux
+
+1. Go to https://www.mathworks.com/downloads
+2. Sign in as tr****@bio*** [~/lu/w5/101/matlab/matlab.txt]
+3. Download
+matlab_R2019a_glnxa64.zip	      136650742 Sun 08 Sep 2019 05:44:07 PM EDT
+4. cd ~/Downloads
+5. mkdir R2019a; cd R2019a; unzip ../matlab_R2019a*.zip
+6. sudo su
+7. ./install & 	# install to /usr/local/MATLAB/R2019a
+8. Create symbolic links to MATLAB scripts in: /usr/local/bin
+9. Your installation may require additional configuration steps.  
+1. The following products require a supported compiler:  
+    Stateflow 10.0 
+    Simulink Coder 9.1 
+    MATLAB Coder 4.2 
+    Simulink Test 3.0  
+2. Simulink requires a C compiler for simulation acceleration, model reference, and MATLAB Function Block capabilities. It is recommended that you install a supported compiler on your machine.  
+3. To accelerate computations with the following products, a supported compiler is required:  
+    SimBiology 5.8.2 
+    Fixed-Point Designer 6.3  
+4. MATLAB Compiler SDK 6.6.1 requires the following:  
+    ● a supported compiler for creation of C and C++ Shared libraries 
+    ● a Java JDK for creation of Java packages 
+
+10. Documentation
+https://www.mathworks.com/help/releases/R2019a/install/index.html
+
+== Ubuntu 1604 ==
+https://www.youtube.com/watch?v=yc_NVVfud5Y
+[[
+How to install MATLAB R2017a in Ubuntu 16.04 LTS
+68,544 views 91 40
+SRM
+Published on Aug 26, 2017
+How to Install Matlab R2017a full in Ubuntu 16.04 LTS 64 bit in terminal and Activate
+Server Client License version easy step by step.
+
+1) sudo apt-get install lsb
+
+2) log in with your account in https://in.mathworks.com/
+
+3) copy File Installation key (FIK) and download license.lic file.
+
+4) download matlab software R2017a (10 GB).
+
+5) mount .iso file and start installation with 'INSTALL' file in terminal.
+
+6) start Server Installation 
+   In terminal by root user /media/(user name)/mathworks_R2017a/install
+
+7) provide File Installation Key (FIK) and licence.lic file.
+
+8) select all packages (for server).
+
+9) start License Manager in server
+   /usr/local/MATLAB/R2017a/etc/./lmstart
+
+10) to activate Clients we required 'network.lic' file. It will we found on server.
+    /usr/local/MATLAB/R2017a/licenses/network.lic
+    copy this file for clients. in this file should have server's ip address instead of server hostname.
+
+11) Start client installation. Use same steps as server just 2 changes.
+    1) don't click 'License Manager' from products.
+    2) use network.lic instead of license.lic.
+]]
+
+
+~

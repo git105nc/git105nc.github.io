@@ -2,7 +2,7 @@
 
 mv ~/wiki ~/ar02/wiki/CS
 
-Scientific Computations [[sc/index]]
+Scientific Computations - matlab [[sc/index]]
 
 
 == lang ==
