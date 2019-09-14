@@ -13,6 +13,7 @@ python  [[python/index]]
 R cran  [[R/index]]
 
 bash    [[bash/index]]
+git     [[git]]
 
 == IDE ==
 
