@@ -1,6 +1,46 @@
 = NiPy =
 
 https://nipy.org/
+has a list of projects:
+- nipype
+- dipy (DTI)
+...
+Each project, for example,  nipype  has 
+Doc - https://nipype.readthedocs.io/en/latest/ 
+Github - https://github.com/nipy/nipype
+and a short description:
+
+Nipype allows you to:
+
+- Easily interact with tools from different software packages.
+- Combine processing steps from different software packages.
+- Develop new workflows faster by reusing common steps from old ones.
+- Process data faster by running it in parallel on many cores/machines.
+- Make your research easily reproducible.
+- Share your processing workflows with the community.
+
+
+
+
+== nipype ==
+https://nipype.readthedocs.io/en/1.2.1/quickstart.html
+https://miykael.github.io/nipype_tutorial/
+
+https://nipype.readthedocs.io/en/0.12.0/users/pipeline_tutorial.html
+
+https://github.com/nipy/nipype/blob/master/examples/nipype_tutorial.ipynb
+
+Note.
+https://github.com/nipy/nipype/tree/master/examples
+has a link to 
+http://nipype.readthedocs.io/en/0.12.0/users/pipeline_tutorial.html
+which is obsolete.
+
+
+
+== nipy ==
+
+NIPY is not only the name of the Neuroimaging in Python community, but also a python project for analysis of structural and functional neuroimaging data.
 
 https://github.com/nipy
 https://github.com/nipy/nipy

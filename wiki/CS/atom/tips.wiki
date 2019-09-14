@@ -6,16 +6,39 @@ apm --help
 apm upgrade
 apm install hydrogen
 
-## 20190130
-~/cs (501): apm upgrade
-Package Updates Available (2)
-├── autocomplete-python 1.11.0 -> 1.12.0
-└── file-icons 2.1.28 -> 2.1.29
+==================================================
+## Tue Sep 10 19:49:23 EDT 2019
 
-Would you like to install these updates? (yes) 
+(base) ~ (2016): apm upgrade
+Package Updates Available (12)
+├── autocomplete-python 1.11.0 -> 1.16.0
+├── busy-signal 2.0.0 -> 2.0.1
+├── file-icons 2.1.28 -> 2.1.35
+├── highlight-selected 0.14.0 -> 0.16.0
+├── Hydrogen 2.7.0 -> 2.12.0
+├── indent-detective 0.3.2 -> 0.4.0
+├── ink 0.9.14 -> 0.11.0
+├── julia-client 0.7.13 -> 0.8.10
+├── language-julia 0.18.0 -> 0.19.1
+├── linter 2.3.0 -> 2.3.1
+├── linter-ui-default 1.7.1 -> 1.8.0
+└── tool-bar 1.1.11 -> 1.1.12
 
-Installing autocomplete-python@1.12.0 to /Volumes/D/UO/yt/.atom/packages ✓
-Installing file-icons@2.1.29 to /Volumes/D/UO/yt/.atom/packages ✓
+Would you like to install these updates? (yes) yes
+
+Installing autocomplete-python@1.16.0 to /home/yt/.atom/packages ✓
+Installing busy-signal@2.0.1 to /home/yt/.atom/packages ✓
+Installing file-icons@2.1.35 to /home/yt/.atom/packages ✓
+Installing highlight-selected@0.16.0 to /home/yt/.atom/packages ✓
+Installing Hydrogen@2.12.0 to /home/yt/.atom/packages ✓
+Installing indent-detective@0.4.0 to /home/yt/.atom/packages ✓
+Installing ink@0.11.0 to /home/yt/.atom/packages ✓
+Installing julia-client@0.8.10 to /home/yt/.atom/packages ✓
+Installing language-julia@0.19.1 to /home/yt/.atom/packages ✓
+Installing linter@2.3.1 to /home/yt/.atom/packages ✓
+Installing linter-ui-default@1.8.0 to /home/yt/.atom/packages ✓
+Installing tool-bar@1.1.12 to /home/yt/.atom/packages ✓
+==================================================
 
 
 

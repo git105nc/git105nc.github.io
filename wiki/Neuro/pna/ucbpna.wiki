@@ -6,3 +6,7 @@ https://github.com/psych-214-fall-2016
 https://practical-neuroimaging.github.io/index.html
 https://github.com/practical-neuroimaging/pna2015
 
+"   /home/yt/ds/pna/
+"   /home/yt/ds/pna/psych214/
+"   /home/yt/ds/pna/psych214/html
+"   /home/yt/ds/pna/psych214/classes-labs
